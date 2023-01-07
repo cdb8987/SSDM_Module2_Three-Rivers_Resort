@@ -1,0 +1,13 @@
+body {
+    background-image: url('three_rivers.webp');
+    background-size: cover;
+}
+body {
+    text-align: center;
+}
+#top {
+    color: green;
+}
+#title {
+    background-color: lightslategray
+}
